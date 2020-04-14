@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SideWall
+  - TopWall
+  - bullet
+  - ball
+  - BottomWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2524312037
+    locked: 0
+  - name: back VFX
+    uniqueID: 913925757
+    locked: 0
+  - name: bubbles
+    uniqueID: 3519550839
+    locked: 0
+  - name: VFX
+    uniqueID: 617174921
+    locked: 0
+  - name: UI
+    uniqueID: 3478511489
+    locked: 0
