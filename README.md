@@ -25,7 +25,7 @@ And we can set Aim Settings which gonna be “**Aim on Bubble**” or “**Aim o
 
 Next is The “**BubbleGrid**” Script, that allow us to set the grid dimension, how many row will be generated at the start of the game, the bubbles size and the grid alignment.
 
-![Grid_1](https://user-images.githubusercontent.com/62396712/79257781-6ac36b80-7e8a-11ea-9fbf-1c2859652419.PNG)
+![Grid_1](https://user-images.githubusercontent.com/62396712/79258171-06ed7280-7e8b-11ea-8021-d4ea16b6edce.PNG)
 ![Grid_2](https://user-images.githubusercontent.com/62396712/79257787-6e56f280-7e8a-11ea-8139-5132f6fed9bf.PNG)
 
 Also the script has parameters of the bubbles animations inside the grid.
