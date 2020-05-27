@@ -14,10 +14,10 @@ I would start talk about the “**GameController**” , from that script we can 
 ![GameController_1](https://user-images.githubusercontent.com/62396712/79257582-1f10c200-7e8a-11ea-81fa-d258afe3369b.PNG)
 
 Also we can setup the merging behavior of the bubbles:
-1.	Highest Bubble
-2.	Biggest Neighbors Count
-3.	Highest Bubble Then Biggest Neighbors Count
-4.	Biggest Neighbors Count Then Highest Bubble
+1.	Highest Bubble.
+2.	Biggest Neighbors Count.
+3.	Highest Bubble Then Biggest Neighbors Count.
+4.	Biggest Neighbors Count Then Highest Bubble.
 And we can set Aim Settings which gonna be “**Aim on Bubble**” or “**Aim on Available Neighbor**”.
 
 ![GameController_2](https://user-images.githubusercontent.com/62396712/79257699-4c5d7000-7e8a-11ea-891a-5faf232e23a4.PNG)
